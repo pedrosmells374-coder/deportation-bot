@@ -1,0 +1,14 @@
+{
+  "name": "deportation-bot",
+  "version": "1.0.0",
+  "description": "Discord moderation bot with deportation notices and destination server invitations",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/register-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7"
+  }
+}

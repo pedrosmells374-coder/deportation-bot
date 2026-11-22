@@ -1,0 +1,13 @@
+{
+  "destinations": [
+    {
+      "name": "The Gulag",
+      "invite": "https://discord.gg/REPLACE_ME",
+      "default": true,
+      "guildId": "REPLACE_WITH_DESTINATION_SERVER_ID"
+    }
+  ],
+  "logChannelId": "",
+  "deportationMessage": "Your membership in this server has been revoked. You have been provided a destination invitation. Joining is voluntary.",
+  "transferLogChannelId": ""
+}
